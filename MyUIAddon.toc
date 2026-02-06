@@ -1,0 +1,10 @@
+## Interface: 100200
+## Title: MyUI Addon
+## Notes: 一个模块化的UI插件示例
+## Author: YourName
+## Version: 1.0.0
+
+Config.lua
+Localization.lua
+EventHandlers.lua
+MyUIAddon.lua
